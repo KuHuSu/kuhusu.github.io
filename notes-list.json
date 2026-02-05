@@ -1,6 +1,12 @@
 {
   "51汇编": [
     {
+      "filename": "介绍",
+      "date": "20260204",
+      "author": "KuHuSu",
+      "path": "/notes/51汇编/[介绍]-[20260204]-[KuHuSu].md"
+    },
+    {
       "filename": "书上习题",
       "date": "2023-12-17",
       "author": "KuHuSu",
@@ -14,6 +20,12 @@
     }
   ],
   "C++": [
+    {
+      "filename": "介绍",
+      "date": "20260204",
+      "author": "KuHuSu",
+      "path": "/notes/C++/[介绍]-[20260204]-[KuHuSu].md"
+    },
     {
       "filename": "C++基础1",
       "date": "2025-03-01",
@@ -35,6 +47,12 @@
   ],
   "操作系统": [
     {
+      "filename": "介绍",
+      "date": "20260204",
+      "author": "KuHuSu",
+      "path": "/notes/操作系统/[介绍]-[20260204]-[KuHuSu].md"
+    },
+    {
       "filename": "内存管理",
       "date": "2025-12-15",
       "author": "KuHuSu",
@@ -54,6 +72,12 @@
     }
   ],
   "数据结构": [
+    {
+      "filename": "介绍",
+      "date": "20260204",
+      "author": "KuHuSu",
+      "path": "/notes/数据结构/[介绍]-[20260204]-[KuHuSu].md"
+    },
     {
       "filename": "哈希表",
       "date": "2025-12-30",
@@ -87,6 +111,12 @@
   ],
   "网络技术": [
     {
+      "filename": "介绍",
+      "date": "20260204",
+      "author": "KuHuSu",
+      "path": "/notes/网络技术/[介绍]-[20260204]-[KuHuSu].md"
+    },
+    {
       "filename": "基础",
       "date": "2026-01-15",
       "author": "KuHuSu",
@@ -95,16 +125,10 @@
   ],
   "其他": [
     {
-      "filename": "test10",
-      "date": "2026-12-20",
+      "filename": "介绍",
+      "date": "20260204",
       "author": "KuHuSu",
-      "path": "/notes/其他/[test10]-[2026-12-20]-[KuHuSu].md"
-    },
-    {
-      "filename": "test9",
-      "date": "2026-12-20",
-      "author": "KuHuSu",
-      "path": "/notes/其他/[test9]-[2026-12-20]-[KuHuSu].md"
+      "path": "/notes/其他/[介绍]-[20260204]-[KuHuSu].md"
     }
   ]
 }
